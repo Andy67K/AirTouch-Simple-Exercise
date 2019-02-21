@@ -15,7 +15,7 @@ The endpoints run on http://localhost:9000
   Logout endpoint path : /logout <br/>
   Register endpoint path : /register <br/>
   Projects endpoint path : /projects <br/>
-  Add Projects endpiont path: /add-project
+  Add Projects endpiont path: /addproject
 
 ## Sample data for User Register
       id: "User01",
