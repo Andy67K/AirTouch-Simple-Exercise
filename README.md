@@ -24,7 +24,7 @@ The endpoints run on http://localhost:9000
       username: "Andykm",
       pass: "melody",
       email: "kay@mail.com",
-      is_admin: false
+      is_admin: true
       
  ## Sample data for Login
       username: "Andykm",
