@@ -39,20 +39,20 @@ var users = [
     },
     {
       id: "User02",
-      firstname: "Andy",
-      lastname: "Kay",
-      username: "Andykm",
-      pass: "melody",
-      email: "kay@mail.com",
+      firstname: "Kenn",
+      lastname: "Ray",
+      username: "kennray",
+      pass: "raykody",
+      email: "ray@mail.com",
       is_admin: false
     },
     {
       id: "User03",
-      firstname: "Andy",
+      firstname: "Helen",
       lastname: "Kay",
-      username: "Andykm",
-      pass: "melody",
-      email: "kay@mail.com",
+      username: "Helenk",
+      pass: "helen67",
+      email: "helen@mail.com",
       is_admin: false
     }
   ];
